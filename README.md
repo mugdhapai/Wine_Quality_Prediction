@@ -1,5 +1,7 @@
 # Wine_Quality_Prediction
 
+![alt text](https://www.sarahsvineyard.com/media/1013/slide-home-01.jpg)
+
 This folder contains the work for Wine Quality Prediction project. The goal of the machine learning model is to be able to identify high quality red and white wines. 
 The data was extracted from Kaggle:
 
